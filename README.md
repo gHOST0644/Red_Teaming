@@ -39,15 +39,6 @@ This section contains structured notes on Red Teaming concepts, techniques, and 
 
 ---
 
-## ⚙️ Tools (Lab Use Only)
-
-- curl
-- Burp Suite
-- netcat
-- ffuf
-- dig / nslookup
-
----
 
 ## 🛡️ Defensive Awareness
 
